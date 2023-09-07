@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hello Laravel!</h1>
+    <h2>Ciao, {{ $nome }}!</h2>
 </body>
 </html>
